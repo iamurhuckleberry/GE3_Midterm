@@ -5273,3 +5273,547 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.22-01.56.49:450][477]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Midterm/Framework/GM_midterm_Auto5
 [2023.10.22-01.56.49:450][477]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/GM_midterm_Auto5C4DEE8E641467FAB9463C39F46098F8B.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/Midterm/Framework/GM_midterm_Auto5.uasset'
 [2023.10.22-01.56.49:452][477]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.10.22-02.00.08:372][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-02.00.08:415][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_PickUp" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_PickUp.uasset" SILENT=true
+[2023.10.22-02.00.08:419][362]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_PickUp
+[2023.10.22-02.00.08:419][362]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_PickUpAC5EB0DF4FA6F1AE3842B9B24AFFCCA9.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_PickUp.uasset'
+[2023.10.22-02.00.08:427][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.12 sec)
+[2023.10.22-02.00.08:433][362]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.10.22-02.00.08:433][362]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_PickUp.BP_PickUp
+[2023.10.22-02.00.09:040][435]BlueprintLog: New page: Compile BP_PickUp
+[2023.10.22-02.00.09:089][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.10.22-02.00.30:747][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.22-02.00.30:747][267]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.00.30:747][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.00.36:670][921]LogContentBrowser: Attempting asset rename: BP_PickUp -> BP_PickUp
+[2023.10.22-02.00.37:787][ 25]LogContentBrowser: Attempting asset rename: BP_PickUp -> BP_PickUp
+[2023.10.22-02.00.39:117][152]LogContentBrowser: Attempting asset rename: BP_PickUp -> BP_PickUp
+[2023.10.22-02.00.46:885][985]LogContentBrowser: Attempting asset rename: BP_PickUp -> BP_PickUp
+[2023.10.22-02.00.52:465][601]LogWindowsTextInputMethodSystem: Activated input method: French (Canada) - (Keyboard).
+[2023.10.22-02.00.52:465][601]LogWindowsTextInputMethodSystem: Activated input method: French (Canada) - (Keyboard).
+[2023.10.22-02.00.53:541][730]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2023.10.22-02.00.53:541][730]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2023.10.22-02.00.56:010][  8]LogContentBrowser: Attempting asset rename: BP_PickUp -> BP_Coin
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.BP_Coin:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.SKEL_BP_Coin_C' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.BP_Coin_C' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.BP_Coin:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.BP_Coin:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.BP_Coin:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.SKEL_BP_Coin_C:UserConstructionScript' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.SKEL_BP_Coin_C:Pickup' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.SKEL_BP_Coin_C:BndEvt__BP_PickUp_PickupCollision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.SKEL_BP_Coin_C:ReceiveTick' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.SKEL_BP_Coin_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:030][  8]LogMetaData: Removing '/Game/Midterm/Interact/BP_Coin.SKEL_BP_Coin_C:ReceiveBeginPlay' ref from Metadata '/Game/Midterm/Interact/BP_PickUp.PackageMetaData'
+[2023.10.22-02.00.56:031][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-02.00.56:058][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_Crystal" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Crystal.uasset" SILENT=true
+[2023.10.22-02.00.56:062][  8]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_Crystal
+[2023.10.22-02.00.56:062][  8]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_Crystal17AAE5A848E6EBA5179DEEBB4315EBD8.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Crystal.uasset'
+[2023.10.22-02.00.56:063][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-02.00.56:078][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_Coin" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Coin.uasset" SILENT=true
+[2023.10.22-02.00.56:082][  8]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_Coin
+[2023.10.22-02.00.56:082][  8]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_CoinA1140D984162D5A1050603A1584CB4D9.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Coin.uasset'
+[2023.10.22-02.00.56:093][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.18 sec)
+[2023.10.22-02.00.56:121][  8]LogWorldPartition: Actor /Game/Test.Test:PersistentLevel.PlayerStart_UAID_001A7DDA7111DDB401_1276811141 is unreachable without properly detaching object /Game/__ExternalActors__/Test/8/G8/NSE4418U0EOPW3E225U8B8.PackageMetaData in its package
+[2023.10.22-02.00.56:121][  8]LogWorldPartition: Actor /Game/Test.Test:PersistentLevel.StaticMeshActor_UAID_001A7DDA7111DCB401_1948880960 is unreachable without properly detaching object /Game/__ExternalActors__/Test/3/3G/VMWFTD69QXOK09MMAAA1JZ.PackageMetaData in its package
+[2023.10.22-02.00.56:121][  8]LogWorldPartition: Actor /Game/Test.Test:PersistentLevel.StaticMeshActor_UAID_001A7DDA7111D5B401_1620895729 is unreachable without properly detaching object /Game/__ExternalActors__/Test/0/5F/H1V8R9XATW3PD6OQGO3N3W.PackageMetaData in its package
+[2023.10.22-02.00.56:121][  8]LogWorldPartition: Actor /Game/Test.Test:PersistentLevel.DirectionalLight_UAID_001A7DDA7111D5B401_1611567728 is unreachable without properly detaching object /Game/__ExternalActors__/Test/0/RG/JNOSD3804JO9E6ZMD1JALH.PackageMetaData in its package
+[2023.10.22-02.00.56:126][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.22-02.00.56:157][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.22-02.00.56:174][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.22-02.00.56:179][  8]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.22-02.00.56:179][  8]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_Coin.BP_Coin
+[2023.10.22-02.00.56:179][  8]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_Crystal.BP_Crystal
+[2023.10.22-02.00.56:200][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.22-02.01.34:868][264]Cmd: TRANSACTION UNDO
+[2023.10.22-02.01.34:868][264]LogEditorTransaction: Undo Add New Function
+[2023.10.22-02.01.34:943][264]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.22-02.01.45:499][984]LogEditorTransaction: Undo Add New Function
+[2023.10.22-02.01.45:577][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.22-02.02.27:600][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-02.02.27:638][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_Coin" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Coin.uasset" SILENT=true
+[2023.10.22-02.02.27:642][356]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_Coin
+[2023.10.22-02.02.27:642][356]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_Coin233A3F9C471C1D6E2F9784883E252DA6.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Coin.uasset'
+[2023.10.22-02.02.27:648][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.23 sec)
+[2023.10.22-02.02.27:652][356]AssetCheck: New page: Asset Save: BP_Coin
+[2023.10.22-02.02.27:652][356]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_Coin.BP_Coin
+[2023.10.22-02.02.28:217][423]BlueprintLog: New page: Compile BP_Coin
+[2023.10.22-02.02.28:262][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.22-02.02.33:570][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-02.02.33:607][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_Coin" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Coin.uasset" SILENT=true
+[2023.10.22-02.02.33:611][ 52]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_Coin
+[2023.10.22-02.02.33:612][ 52]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_CoinEF4AB15E46BA32772E43908BA42BEC7C.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Coin.uasset'
+[2023.10.22-02.02.33:617][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 1.27 sec)
+[2023.10.22-02.02.33:622][ 52]AssetCheck: New page: Asset Save: BP_Coin
+[2023.10.22-02.02.33:622][ 52]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_Coin.BP_Coin
+[2023.10.22-02.03.21:502][409]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.03.21:502][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.03.21:515][409]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.03.21:515][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.03.21:550][409]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.03.21:550][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.03.22:707][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.22-02.03.22:707][545]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.03.22:707][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.03.22:740][545]LogViewport: Scene viewport resized to 1526x671, mode Windowed.
+[2023.10.22-02.03.22:757][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-02.03.22:781][546]LogViewport: Scene viewport resized to 1526x660, mode Windowed.
+[2023.10.22-02.03.22:809][547]LogViewport: Scene viewport resized to 1526x652, mode Windowed.
+[2023.10.22-02.03.22:841][548]LogViewport: Scene viewport resized to 1526x643, mode Windowed.
+[2023.10.22-02.03.29:519][318]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.22-02.03.29:519][318]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.03.29:519][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.03.29:556][318]LogViewport: Scene viewport resized to 1526x671, mode Windowed.
+[2023.10.22-02.03.29:578][319]LogViewport: Scene viewport resized to 1526x664, mode Windowed.
+[2023.10.22-02.03.29:635][320]LogViewport: Scene viewport resized to 1526x648, mode Windowed.
+[2023.10.22-02.03.29:664][321]LogViewport: Scene viewport resized to 1526x643, mode Windowed.
+[2023.10.22-02.03.31:136][483]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Midterm/Interact/BP_Coin.BP_Coin
+[2023.10.22-02.03.31:136][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-02.03.31:136][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-02.05.00:221][237]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-02.05.00:226][237]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.22-02.05.00:226][237]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.22-02.05.00:226][237]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.22-02.05.00:226][237]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 623 us)
+[2023.10.22-02.05.00:226][237]LogWorldPartition: Display: GenerateStreaming took 113 us (total: 3 ms)
+[2023.10.22-02.05.00:231][237]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.22-02.05.00:233][237]LogPlayLevel: [PlayLevel] Compiling GM_midterm before play...
+[2023.10.22-02.05.00:236][237]LogPlayLevel: [PlayLevel] Compiling BP_Crystal before play...
+[2023.10.22-02.05.00:292][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.10.22-02.05.00:311][237]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (2 blueprints)
+[2023.10.22-02.05.00:311][237]PIE: New page: PIE session: Test (Oct. 21, 2023, 6:05:00 p.m.)
+[2023.10.22-02.05.00:311][237]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2023.10.22-02.05.00:314][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002830s)
+[2023.10.22-02.05.00:314][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.002865s)
+[2023.10.22-02.05.00:314][237]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-02.05.00:314][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-02.05.00:315][237]LogAIModule: Creating AISystem for world Test
+[2023.10.22-02.05.00:315][237]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.22-02.05.00:315][237]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.22-02.05.00:315][237]LogWorldPartition: UWorldPartition::Initialize(Asset=Test, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.22-02.05.00:315][237]LogContentBundle: [Test(Standalone)] Creating new contrainer.
+[2023.10.22-02.05.00:315][237]LogWorldPartition: Display: WorldPartition initialize took 442 us (total: 334 ms)
+[2023.10.22-02.05.00:315][237]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2023.10.22-02.05.00:335][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.22-02.05.00:338][237]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.10.22-02.05.00:338][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-02.05.00:338][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-02.05.00:338][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-02.05.00:338][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-02.05.00:338][237]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.22-02.05.00:338][237]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-02.05.00:338][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.22-02.05.00:338][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-02.05.00:339][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-02.05.00:339][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-02.05.00:339][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-02.05.00:341][237]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-02.05.00:371][237]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Bose PC Desktop Controller)
+[2023.10.22-02.05.00:372][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-02.05.00:372][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-02.05.00:372][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-02.05.00:372][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.10.22-02.05.00:372][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.10.22-02.05.00:375][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.10.22-02.05.00:375][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.10.22-02.05.00:375][237]LogInit: FAudioDevice initialized with ID 38.
+[2023.10.22-02.05.00:375][237]LogAudio: Display: Audio Device (ID: 38) registered with world 'Test'.
+[2023.10.22-02.05.00:375][237]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2023.10.22-02.05.00:398][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.05.00:398][237]LogLoad: Game class is 'GM_midterm_C'
+[2023.10.22-02.05.00:399][237]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.10.21-22.05.00
+[2023.10.22-02.05.00:399][237]LogWorld: Bringing up level for play took: 0.000999
+[2023.10.22-02.05.00:402][237]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.10.22-02.05.00:402][237]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.22-02.05.00:405][237]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.22-02.05.00:405][237]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=100.383,P=0.000000 Y=0.000000 R=-0.000000
+[2023.10.22-02.05.00:413][237]PIE: Server logged in
+[2023.10.22-02.05.00:413][237]PIE: Play in editor total start time 0.187 seconds.
+[2023.10.22-02.05.00:434][237]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.22-02.05.09:160][249]LogBlueprintUserMessages: [BP_Point_C_UAID_001A7DDA7111E1B401_1135601854] Collected!
+[2023.10.22-02.05.29:215][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.05.29:215][371]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2023.10.22-02.05.29:216][371]LogSlate: Window 'midtermproject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.22-02.05.29:218][371]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.05.29:218][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.05.29:218][371]LogContentBundle: [Test(Standalone)] Deleting container.
+[2023.10.22-02.05.29:220][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-02.05.29:224][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.05.29:243][371]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2023.10.22-02.05.29:243][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.10.22-02.05.29:245][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.10.22-02.05.29:251][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.22-02.05.29:296][375]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.10.22-02.06.00:579][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-02.06.00:640][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_Crystal" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Crystal.uasset" SILENT=true
+[2023.10.22-02.06.00:643][639]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_Crystal
+[2023.10.22-02.06.00:644][639]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_CrystalD441704F4CD4FAB23AA8AE9ABDDA605A.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Crystal.uasset'
+[2023.10.22-02.06.00:651][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.34 sec)
+[2023.10.22-02.06.00:656][639]AssetCheck: New page: Asset Save: BP_Crystal
+[2023.10.22-02.06.00:656][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_Crystal.BP_Crystal
+[2023.10.22-02.06.01:885][786]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-02.06.01:890][786]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.22-02.06.01:891][786]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.22-02.06.01:891][786]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.22-02.06.01:892][786]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 634 us)
+[2023.10.22-02.06.01:892][786]LogWorldPartition: Display: GenerateStreaming took 125 us (total: 3 ms)
+[2023.10.22-02.06.01:892][786]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.22-02.06.01:895][786]LogPlayLevel: [PlayLevel] Compiling BP_Coin before play...
+[2023.10.22-02.06.01:895][786]LogPlayLevel: [PlayLevel]   Compiling BP_Crystal as a dependent...
+[2023.10.22-02.06.01:954][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.22-02.06.01:959][786]LogPlayLevel: PlayLevel: Blueprint regeneration took 66 ms (2 blueprints)
+[2023.10.22-02.06.01:959][786]PIE: New page: PIE session: Test (Oct. 21, 2023, 6:06:01 p.m.)
+[2023.10.22-02.06.01:959][786]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2023.10.22-02.06.01:961][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002164s)
+[2023.10.22-02.06.01:961][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.002190s)
+[2023.10.22-02.06.01:962][786]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-02.06.01:962][786]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-02.06.01:962][786]LogAIModule: Creating AISystem for world Test
+[2023.10.22-02.06.01:962][786]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.22-02.06.01:962][786]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.22-02.06.01:962][786]LogWorldPartition: UWorldPartition::Initialize(Asset=Test, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.22-02.06.01:962][786]LogContentBundle: [Test(Standalone)] Creating new contrainer.
+[2023.10.22-02.06.01:962][786]LogWorldPartition: Display: WorldPartition initialize took 314 us (total: 334 ms)
+[2023.10.22-02.06.01:962][786]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2023.10.22-02.06.01:979][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.22-02.06.01:981][786]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.10.22-02.06.01:981][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-02.06.01:981][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-02.06.01:981][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-02.06.01:981][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-02.06.01:981][786]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.22-02.06.01:981][786]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-02.06.01:981][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.22-02.06.01:981][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-02.06.01:981][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-02.06.01:981][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-02.06.01:981][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-02.06.01:983][786]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-02.06.02:008][786]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Bose PC Desktop Controller)
+[2023.10.22-02.06.02:009][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-02.06.02:009][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-02.06.02:009][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-02.06.02:009][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.10.22-02.06.02:009][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.10.22-02.06.02:011][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.10.22-02.06.02:011][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.10.22-02.06.02:011][786]LogInit: FAudioDevice initialized with ID 39.
+[2023.10.22-02.06.02:011][786]LogAudio: Display: Audio Device (ID: 39) registered with world 'Test'.
+[2023.10.22-02.06.02:011][786]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2023.10.22-02.06.02:034][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.06.02:034][786]LogLoad: Game class is 'GM_midterm_C'
+[2023.10.22-02.06.02:035][786]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.10.21-22.06.02
+[2023.10.22-02.06.02:035][786]LogWorld: Bringing up level for play took: 0.000648
+[2023.10.22-02.06.02:037][786]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.10.22-02.06.02:037][786]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.22-02.06.02:039][786]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.22-02.06.02:039][786]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=100.383,P=0.000000 Y=0.000000 R=-0.000000
+[2023.10.22-02.06.02:043][786]PIE: Server logged in
+[2023.10.22-02.06.02:044][786]PIE: Play in editor total start time 0.153 seconds.
+[2023.10.22-02.06.02:063][786]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.22-02.06.06:253][252]LogBlueprintUserMessages: [BP_PickUp_C_UAID_001A7DDA7111DFB401_1553378496] Collected!
+[2023.10.22-02.06.06:969][338]LogBlueprintUserMessages: [BP_Point_C_UAID_001A7DDA7111E1B401_1135601854] You find the KEY!
+[2023.10.22-02.06.10:183][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.06.10:184][602]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2023.10.22-02.06.10:184][602]LogSlate: Window 'midtermproject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.22-02.06.10:187][602]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.06.10:187][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.06.10:187][602]LogContentBundle: [Test(Standalone)] Deleting container.
+[2023.10.22-02.06.10:189][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-02.06.10:193][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.06.10:213][602]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2023.10.22-02.06.10:213][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.10.22-02.06.10:214][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.10.22-02.06.10:220][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.10.22-02.06.10:247][604]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.10.22-02.06.11:718][778]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-02.06.12:660][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Midterm/Interact/BP_Goal.BP_Goal
+[2023.10.22-02.06.12:661][878]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-02.06.12:661][878]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-02.06.41:486][ 90]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave SFX_Chime_03B...
+[2023.10.22-02.06.41:492][ 90]LogAudio: Display: Chunk size for SoundWave /Game/TeachersMarketplace/Assets/SFX/SFX_Chime_03B.SFX_Chime_03B: 262144
+[2023.10.22-02.06.43:857][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-02.06.43:862][372]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.22-02.06.43:863][372]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.22-02.06.43:863][372]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.22-02.06.43:863][372]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 643 us)
+[2023.10.22-02.06.43:863][372]LogWorldPartition: Display: GenerateStreaming took 112 us (total: 4 ms)
+[2023.10.22-02.06.43:864][372]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.22-02.06.43:869][372]LogPlayLevel: [PlayLevel] Compiling BP_Coin before play...
+[2023.10.22-02.06.43:869][372]LogPlayLevel: [PlayLevel]   Compiling BP_Crystal as a dependent...
+[2023.10.22-02.06.43:928][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.10.22-02.06.43:933][372]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (2 blueprints)
+[2023.10.22-02.06.43:933][372]PIE: New page: PIE session: Test (Oct. 21, 2023, 6:06:43 p.m.)
+[2023.10.22-02.06.43:933][372]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2023.10.22-02.06.43:935][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002219s)
+[2023.10.22-02.06.43:935][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.002245s)
+[2023.10.22-02.06.43:936][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-02.06.43:936][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-02.06.43:936][372]LogAIModule: Creating AISystem for world Test
+[2023.10.22-02.06.43:936][372]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.22-02.06.43:936][372]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.22-02.06.43:936][372]LogWorldPartition: UWorldPartition::Initialize(Asset=Test, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.22-02.06.43:937][372]LogContentBundle: [Test(Standalone)] Creating new contrainer.
+[2023.10.22-02.06.43:937][372]LogWorldPartition: Display: WorldPartition initialize took 324 us (total: 335 ms)
+[2023.10.22-02.06.43:937][372]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2023.10.22-02.06.43:954][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.22-02.06.43:955][372]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.10.22-02.06.43:955][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-02.06.43:955][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-02.06.43:955][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-02.06.43:955][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-02.06.43:955][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.22-02.06.43:955][372]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-02.06.43:955][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.22-02.06.43:955][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-02.06.43:956][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-02.06.43:956][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-02.06.43:956][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-02.06.43:958][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-02.06.43:986][372]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Bose PC Desktop Controller)
+[2023.10.22-02.06.43:986][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-02.06.43:986][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-02.06.43:986][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-02.06.43:987][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.10.22-02.06.43:987][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.10.22-02.06.43:989][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.10.22-02.06.43:989][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.10.22-02.06.43:989][372]LogInit: FAudioDevice initialized with ID 40.
+[2023.10.22-02.06.43:989][372]LogAudio: Display: Audio Device (ID: 40) registered with world 'Test'.
+[2023.10.22-02.06.43:989][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2023.10.22-02.06.44:011][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.06.44:011][372]LogLoad: Game class is 'GM_midterm_C'
+[2023.10.22-02.06.44:012][372]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.10.21-22.06.44
+[2023.10.22-02.06.44:012][372]LogWorld: Bringing up level for play took: 0.000755
+[2023.10.22-02.06.44:014][372]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.10.22-02.06.44:014][372]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.22-02.06.44:016][372]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.22-02.06.44:016][372]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=100.383,P=0.000000 Y=0.000000 R=-0.000000
+[2023.10.22-02.06.44:021][372]PIE: Server logged in
+[2023.10.22-02.06.44:021][372]PIE: Play in editor total start time 0.159 seconds.
+[2023.10.22-02.06.44:040][372]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.22-02.06.47:839][799]LogBlueprintUserMessages: [BP_PickUp_C_UAID_001A7DDA7111DFB401_1553378496] Collected!
+[2023.10.22-02.06.48:623][893]LogBlueprintUserMessages: [BP_Point_C_UAID_001A7DDA7111E1B401_1135601854] You find the KEY!
+[2023.10.22-02.06.50:793][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.06.50:793][990]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2023.10.22-02.06.50:793][990]LogSlate: Window 'midtermproject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.22-02.06.50:795][990]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.06.50:795][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.06.50:795][990]LogContentBundle: [Test(Standalone)] Deleting container.
+[2023.10.22-02.06.50:797][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-02.06.50:802][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.06.50:821][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2023.10.22-02.06.50:821][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.10.22-02.06.50:822][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.10.22-02.06.50:828][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.10.22-02.06.50:853][991]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.10.22-02.07.15:834][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-02.07.15:904][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_Goal" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Goal.uasset" SILENT=true
+[2023.10.22-02.07.15:908][988]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_Goal
+[2023.10.22-02.07.15:908][988]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_GoalED0A826E45766A7A52969F9FD4CB7701.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Goal.uasset'
+[2023.10.22-02.07.15:916][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.43 sec)
+[2023.10.22-02.07.15:920][988]AssetCheck: New page: Asset Save: BP_Goal
+[2023.10.22-02.07.15:920][988]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_Goal.BP_Goal
+[2023.10.22-02.07.17:930][228]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.07.17:930][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.07.53:201][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.22-02.07.53:210][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/3/OU/M1P4LN4MQDZYL3IOOOPNN8_Auto6
+[2023.10.22-02.07.53:210][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/M1P4LN4MQDZYL3IOOOPNN8_Auto6593B80E8482FC2AC64A8669CD63208FC.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/3/OU/M1P4LN4MQDZYL3IOOOPNN8_Auto6.uasset'
+[2023.10.22-02.07.53:211][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/1/DT/QSFF3ZS31AVKFD8VDQKYKI_Auto6
+[2023.10.22-02.07.53:211][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/QSFF3ZS31AVKFD8VDQKYKI_Auto6F6BE0B044A78FC259ADAA49D5770D942.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/1/DT/QSFF3ZS31AVKFD8VDQKYKI_Auto6.uasset'
+[2023.10.22-02.07.53:213][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/5/8I/M3GWMKY7KAQ3X5O4309A3Z_Auto6
+[2023.10.22-02.07.53:213][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/M3GWMKY7KAQ3X5O4309A3Z_Auto6A220975E49F4C52133E813ADCBEBC819.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/5/8I/M3GWMKY7KAQ3X5O4309A3Z_Auto6.uasset'
+[2023.10.22-02.07.53:215][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/B/I1/0YBK7TFCLCLAIT2TYUIDHQ_Auto6
+[2023.10.22-02.07.53:215][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/0YBK7TFCLCLAIT2TYUIDHQ_Auto6C78A5F20441FD3C48F7A7C848FF34DCD.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/B/I1/0YBK7TFCLCLAIT2TYUIDHQ_Auto6.uasset'
+[2023.10.22-02.07.53:216][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/E/E4/RZ2EOUVJ62YNUKNTY96MCH_Auto6
+[2023.10.22-02.07.53:216][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/RZ2EOUVJ62YNUKNTY96MCH_Auto671EFE92445806EB699A9FDB3AE49A6AB.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/E/E4/RZ2EOUVJ62YNUKNTY96MCH_Auto6.uasset'
+[2023.10.22-02.07.53:218][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/C/T6/3LNIPSY9CLKHXI6F5Y0VP2_Auto6
+[2023.10.22-02.07.53:218][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/3LNIPSY9CLKHXI6F5Y0VP2_Auto6F3E90CA04E336364AB752A9F5FE6123C.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/C/T6/3LNIPSY9CLKHXI6F5Y0VP2_Auto6.uasset'
+[2023.10.22-02.07.53:220][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/3/R2/IUHDOBG003IKZ72DCL3WWL_Auto6
+[2023.10.22-02.07.53:220][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/IUHDOBG003IKZ72DCL3WWL_Auto6EE92E531412301776D63DDBFC990CEE1.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/3/R2/IUHDOBG003IKZ72DCL3WWL_Auto6.uasset'
+[2023.10.22-02.07.53:221][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/9/M6/4OF6ONV8DLH1L1JDJPU0LW_Auto6
+[2023.10.22-02.07.53:221][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/4OF6ONV8DLH1L1JDJPU0LW_Auto68B56EE714B0E6768FAFDE9A347A41D86.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/9/M6/4OF6ONV8DLH1L1JDJPU0LW_Auto6.uasset'
+[2023.10.22-02.07.53:222][ 11]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test' took 0.040
+[2023.10.22-02.07.53:222][ 11]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.10.22-02.07.53:222][ 11]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Midterm/Framework/GM_midterm] ([2] browsable assets)...
+[2023.10.22-02.07.53:222][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/Midterm/Framework/GM_midterm]
+[2023.10.22-02.07.53:225][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Midterm/Framework/GM_midterm_Auto6
+[2023.10.22-02.07.53:225][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/GM_midterm_Auto68AECE2094C1096ECEC10DFB32A70D128.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/Midterm/Framework/GM_midterm_Auto6.uasset'
+[2023.10.22-02.07.53:226][ 11]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Midterm/Interact/BP_Coin] ([2] browsable assets)...
+[2023.10.22-02.07.53:242][ 11]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Midterm/Interact/BP_Coin.BP_Coin]
+[2023.10.22-02.07.53:242][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/Midterm/Interact/BP_Coin]
+[2023.10.22-02.07.53:247][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Midterm/Interact/BP_Coin_Auto6
+[2023.10.22-02.07.53:247][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_Coin_Auto6D6DDA1A84AC4E9CF847839AA834614B5.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/Midterm/Interact/BP_Coin_Auto6.uasset'
+[2023.10.22-02.07.53:248][ 11]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Midterm/Interact/BP_Crystal] ([2] browsable assets)...
+[2023.10.22-02.07.53:253][ 11]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Midterm/Interact/BP_Crystal.BP_Crystal]
+[2023.10.22-02.07.53:253][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/Midterm/Interact/BP_Crystal]
+[2023.10.22-02.07.53:257][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Midterm/Interact/BP_Crystal_Auto6
+[2023.10.22-02.07.53:258][ 11]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_Crystal_Auto6F73EF89C46D5A79503B2F4B3960334FE.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/Midterm/Interact/BP_Crystal_Auto6.uasset'
+[2023.10.22-02.07.53:258][ 11]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.10.22-02.08.14:506][ 76]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - (Keyboard).
+[2023.10.22-02.08.14:507][ 76]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2023.10.22-02.08.15:581][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-02.08.15:611][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_Coin" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Coin.uasset" SILENT=true
+[2023.10.22-02.08.15:616][167]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_Coin
+[2023.10.22-02.08.15:616][167]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_CoinBD690E4143AC995B55352082B5EA3FB0.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Coin.uasset'
+[2023.10.22-02.08.15:623][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.47 sec)
+[2023.10.22-02.08.15:629][167]AssetCheck: New page: Asset Save: BP_Coin
+[2023.10.22-02.08.15:629][167]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_Coin.BP_Coin
+[2023.10.22-02.08.25:852][235]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-02.08.25:857][235]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.22-02.08.25:859][235]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.22-02.08.25:859][235]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.22-02.08.25:859][235]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 652 us)
+[2023.10.22-02.08.25:859][235]LogWorldPartition: Display: GenerateStreaming took 109 us (total: 4 ms)
+[2023.10.22-02.08.25:860][235]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.22-02.08.25:860][235]LogPlayLevel: [PlayLevel] Compiling BP_Crystal before play...
+[2023.10.22-02.08.25:912][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.22-02.08.25:914][235]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2023.10.22-02.08.25:914][235]PIE: New page: PIE session: Test (Oct. 21, 2023, 6:08:25 p.m.)
+[2023.10.22-02.08.25:914][235]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2023.10.22-02.08.25:916][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002220s)
+[2023.10.22-02.08.25:916][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.002246s)
+[2023.10.22-02.08.25:916][235]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-02.08.25:916][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-02.08.25:917][235]LogAIModule: Creating AISystem for world Test
+[2023.10.22-02.08.25:917][235]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.22-02.08.25:917][235]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.22-02.08.25:917][235]LogWorldPartition: UWorldPartition::Initialize(Asset=Test, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.22-02.08.25:917][235]LogContentBundle: [Test(Standalone)] Creating new contrainer.
+[2023.10.22-02.08.25:917][235]LogWorldPartition: Display: WorldPartition initialize took 320 us (total: 335 ms)
+[2023.10.22-02.08.25:917][235]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2023.10.22-02.08.25:936][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.22-02.08.25:938][235]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.10.22-02.08.25:938][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-02.08.25:938][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-02.08.25:938][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-02.08.25:938][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-02.08.25:938][235]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.22-02.08.25:938][235]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-02.08.25:938][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.22-02.08.25:938][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-02.08.25:938][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-02.08.25:938][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-02.08.25:938][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-02.08.25:940][235]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-02.08.25:966][235]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Bose PC Desktop Controller)
+[2023.10.22-02.08.25:966][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-02.08.25:966][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-02.08.25:966][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-02.08.25:967][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.10.22-02.08.25:967][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.10.22-02.08.25:968][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.10.22-02.08.25:968][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.10.22-02.08.25:968][235]LogInit: FAudioDevice initialized with ID 41.
+[2023.10.22-02.08.25:968][235]LogAudio: Display: Audio Device (ID: 41) registered with world 'Test'.
+[2023.10.22-02.08.25:968][235]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2023.10.22-02.08.25:993][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.08.25:993][235]LogLoad: Game class is 'GM_midterm_C'
+[2023.10.22-02.08.25:993][235]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.10.21-22.08.25
+[2023.10.22-02.08.25:993][235]LogWorld: Bringing up level for play took: 0.000593
+[2023.10.22-02.08.25:995][235]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.10.22-02.08.25:996][235]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.22-02.08.25:997][235]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.22-02.08.25:997][235]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=100.383,P=0.000000 Y=0.000000 R=-0.000000
+[2023.10.22-02.08.26:002][235]PIE: Server logged in
+[2023.10.22-02.08.26:002][235]PIE: Play in editor total start time 0.145 seconds.
+[2023.10.22-02.08.26:025][235]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.22-02.08.31:732][859]LogBlueprintUserMessages: [BP_PickUp_C_UAID_001A7DDA7111DFB401_1553378496] Collected!
+[2023.10.22-02.08.32:607][964]LogBlueprintUserMessages: [BP_Point_C_UAID_001A7DDA7111E1B401_1135601854] You find the KEY!
+[2023.10.22-02.08.38:986][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.08.38:987][369]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2023.10.22-02.08.38:987][369]LogSlate: Window 'midtermproject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.22-02.08.38:989][369]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.08.38:990][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.08.38:990][369]LogContentBundle: [Test(Standalone)] Deleting container.
+[2023.10.22-02.08.38:991][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-02.08.38:995][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.08.39:013][369]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2023.10.22-02.08.39:013][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.10.22-02.08.39:015][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.10.22-02.08.39:021][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.10.22-02.08.39:055][372]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.10.22-02.08.44:366][  5]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave SFX_Chime_07B...
+[2023.10.22-02.08.44:377][  5]LogAudio: Display: Chunk size for SoundWave /Game/TeachersMarketplace/Assets/SFX/SFX_Chime_07B.SFX_Chime_07B: 262144
+[2023.10.22-02.08.45:958][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-02.08.46:011][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_Crystal" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Crystal.uasset" SILENT=true
+[2023.10.22-02.08.46:015][194]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_Crystal
+[2023.10.22-02.08.46:015][194]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_CrystalB6AC6EA143ECD1828173C9AE5F0F275D.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_Crystal.uasset'
+[2023.10.22-02.08.46:022][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.53 sec)
+[2023.10.22-02.08.46:027][194]AssetCheck: New page: Asset Save: BP_Crystal
+[2023.10.22-02.08.46:027][194]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_Crystal.BP_Crystal
+[2023.10.22-02.08.46:883][297]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-02.08.46:888][297]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.22-02.08.46:889][297]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.22-02.08.46:889][297]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.22-02.08.46:889][297]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 660 us)
+[2023.10.22-02.08.46:889][297]LogWorldPartition: Display: GenerateStreaming took 107 us (total: 4 ms)
+[2023.10.22-02.08.46:889][297]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.22-02.08.46:890][297]LogPlayLevel: [PlayLevel] Compiling BP_Crystal before play...
+[2023.10.22-02.08.46:939][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.10.22-02.08.46:942][297]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2023.10.22-02.08.46:942][297]PIE: New page: PIE session: Test (Oct. 21, 2023, 6:08:46 p.m.)
+[2023.10.22-02.08.46:942][297]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2023.10.22-02.08.46:944][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002545s)
+[2023.10.22-02.08.46:945][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.002572s)
+[2023.10.22-02.08.46:945][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-02.08.46:945][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-02.08.46:945][297]LogAIModule: Creating AISystem for world Test
+[2023.10.22-02.08.46:945][297]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.22-02.08.46:945][297]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.22-02.08.46:945][297]LogWorldPartition: UWorldPartition::Initialize(Asset=Test, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.22-02.08.46:946][297]LogContentBundle: [Test(Standalone)] Creating new contrainer.
+[2023.10.22-02.08.46:946][297]LogWorldPartition: Display: WorldPartition initialize took 347 us (total: 335 ms)
+[2023.10.22-02.08.46:946][297]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2023.10.22-02.08.46:963][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.10.22-02.08.46:964][297]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.10.22-02.08.46:964][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-02.08.46:964][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-02.08.46:964][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-02.08.46:964][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-02.08.46:964][297]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.22-02.08.46:964][297]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-02.08.46:964][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.22-02.08.46:964][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-02.08.46:965][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-02.08.46:965][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-02.08.46:965][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-02.08.46:966][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-02.08.46:992][297]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Bose PC Desktop Controller)
+[2023.10.22-02.08.46:992][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-02.08.46:992][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-02.08.46:992][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-02.08.46:993][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.10.22-02.08.46:993][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.10.22-02.08.46:994][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.10.22-02.08.46:994][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.10.22-02.08.46:994][297]LogInit: FAudioDevice initialized with ID 42.
+[2023.10.22-02.08.46:994][297]LogAudio: Display: Audio Device (ID: 42) registered with world 'Test'.
+[2023.10.22-02.08.46:994][297]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2023.10.22-02.08.47:017][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.08.47:017][297]LogLoad: Game class is 'GM_midterm_C'
+[2023.10.22-02.08.47:018][297]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.10.21-22.08.47
+[2023.10.22-02.08.47:018][297]LogWorld: Bringing up level for play took: 0.000628
+[2023.10.22-02.08.47:020][297]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.10.22-02.08.47:020][297]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.22-02.08.47:022][297]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.22-02.08.47:022][297]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=100.383,P=0.000000 Y=0.000000 R=-0.000000
+[2023.10.22-02.08.47:026][297]PIE: Server logged in
+[2023.10.22-02.08.47:026][297]PIE: Play in editor total start time 0.139 seconds.
+[2023.10.22-02.08.47:047][297]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.22-02.08.50:921][723]LogBlueprintUserMessages: [BP_Point_C_UAID_001A7DDA7111E1B401_1135601854] You find the KEY!
+[2023.10.22-02.08.52:168][871]LogBlueprintUserMessages: [BP_PickUp_C_UAID_001A7DDA7111DFB401_1553378496] Collected!
+[2023.10.22-02.08.54:456][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-02.08.54:456][ 11]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2023.10.22-02.08.54:457][ 11]LogSlate: Window 'midtermproject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.22-02.08.54:459][ 11]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-02.08.54:459][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.08.54:459][ 11]LogContentBundle: [Test(Standalone)] Deleting container.
+[2023.10.22-02.08.54:462][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-02.08.54:466][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-02.08.54:489][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2023.10.22-02.08.54:489][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.10.22-02.08.54:491][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.10.22-02.08.54:499][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.10.22-02.08.54:531][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_74

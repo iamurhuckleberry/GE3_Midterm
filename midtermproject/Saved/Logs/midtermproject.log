@@ -2684,3 +2684,209 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.22-00.57.33:426][257]PIE: Server logged in
 [2023.10.22-00.57.33:426][257]PIE: Play in editor total start time 0.129 seconds.
 [2023.10.22-00.57.33:467][257]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.22-00.58.44:948][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-00.58.44:948][955]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2023.10.22-00.58.44:950][955]LogSlate: Window 'midtermproject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.22-00.58.44:952][955]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-00.58.44:952][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-00.58.44:952][955]LogContentBundle: [Test(Standalone)] Deleting container.
+[2023.10.22-00.58.44:954][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-00.58.44:957][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-00.58.44:975][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.10.22-00.58.44:975][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.22-00.58.44:977][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.22-00.58.44:982][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.22-00.58.45:011][958]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.10.22-00.58.45:563][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-00.58.45:595][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Player/BP_Player" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Player/BP_Player.uasset" SILENT=true
+[2023.10.22-00.58.45:602][ 24]LogSavePackage: Moving output files for package: /Game/Midterm/Player/BP_Player
+[2023.10.22-00.58.45:602][ 24]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_Player5E1F635B46E8CE43B73468AC44AA3DB5.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Player/BP_Player.uasset'
+[2023.10.22-00.58.45:609][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 141 ms)
+[2023.10.22-00.58.45:613][ 24]AssetCheck: New page: Asset Save: BP_Player
+[2023.10.22-00.58.45:613][ 24]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Player/BP_Player.BP_Player
+[2023.10.22-00.59.26:206][181]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.22-00.59.45:837][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Idle.epicCharacter_Idle
+[2023.10.22-00.59.46:409][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Idle.epicCharacter_Idle, at AnimationSequence/07c11ecb34ff931e801c624e05adb17ff7ea5411
+[2023.10.22-00.59.46:479][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.00.01:937][329]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.10.22-01.00.22:085][726]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.10.22-01.00.22:086][726]LogStatusBar: StatusBar: LevelEditor.StatusBar was content browser was not opened
+[2023.10.22-01.00.22:086][726]LogStatusBar: Using status bar: BlueprintEditorApp_0 to dock content browser
+[2023.10.22-01.00.23:658][900]LogSlate: Window 'Content Browser' being destroyed
+[2023.10.22-01.00.23:665][900]LogSlate: Window 'Content Browser' being destroyed
+[2023.10.22-01.00.38:525][204]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.22-01.00.38:536][204]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.22-01.00.38:546][205]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.22-01.00.45:236][  4]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2023.10.22-01.00.45:236][  4]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.22-01.00.56:985][350]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.01.03:643][350]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.10.22-01.01.03:652][350]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.10.22-01.01.03:658][350]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.10.22-01.01.03:683][352]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.10.22-01.01.13:050][471]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> Player_Animation
+[2023.10.22-01.01.13:060][471]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.10.22-01.01.13:061][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.01.15:344][742]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Midterm/Player/Animation/Player_Animation.Player_Animation
+[2023.10.22-01.01.15:345][742]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.01.15:345][742]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-01.01.15:387][742]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.01.15:387][742]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-01.01.15:456][742]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.22-01.01.15:670][742]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.01.15:670][742]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-01.01.15:741][742]LogViewport: Scene viewport resized to 412x347, mode Windowed.
+[2023.10.22-01.02.02:334][363]LogSlate: Took 0.004394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.22-01.03.00:953][878]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.10.22-01.03.03:228][108]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.10.22-01.03.03:937][187]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.10.22-01.03.04:968][293]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.BlendSpace1D
+[2023.10.22-01.03.12:102][ 66]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Idle_Anim.epicCharacter_Idle_Anim
+[2023.10.22-01.03.12:106][ 66]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Run_Anim.epicCharacter_Run_Anim
+[2023.10.22-01.03.12:112][ 66]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Walk_Anim.epicCharacter_Walk_Anim
+[2023.10.22-01.03.12:130][ 66]LogAnimationCompression: Display: Storing compressed animation data for /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Run_Anim.epicCharacter_Run_Anim, at AnimationSequence/1719d4b180e5e4420083a96a1181c07d7325679c
+[2023.10.22-01.03.12:152][ 66]LogAnimationCompression: Display: Storing compressed animation data for /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Walk_Anim.epicCharacter_Walk_Anim, at AnimationSequence/a781decb5f1b4fd704e9e4ea89a1c6c4ac979977
+[2023.10.22-01.03.12:158][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.03.12:582][ 97]LogAnimationCompression: Display: Storing compressed animation data for /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Idle_Anim.epicCharacter_Idle_Anim, at AnimationSequence/748cf29c26b766fca2d4b515a241aa933fc88844
+[2023.10.22-01.03.38:380][811]BlueprintLog: New page: Compile Player_Animation
+[2023.10.22-01.03.38:424][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.22-01.03.52:446][765]LogSlate: Took 0.003770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.10.22-01.04.59:922][398]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.10.22-01.05.08:691][103]LogEditorTransaction: Undo Move Node
+[2023.10.22-01.05.08:766][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.22-01.05.09:333][150]LogEditorTransaction: Undo Add Node
+[2023.10.22-01.05.09:401][150]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.22-01.05.54:477][614]BlueprintLog: New page: Compile Player_Animation
+[2023.10.22-01.05.54:513][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.10.22-01.05.54:555][616]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:568][617]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:579][618]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:592][619]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:603][620]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:615][621]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:625][622]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:637][623]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:647][624]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:659][625]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:670][626]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:680][627]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:691][628]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:703][629]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:715][630]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.05.54:727][631]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Animation_C /Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Animation_C_0
+	Function /Game/Midterm/Player/Animation/Player_Animation.Player_Animation_C:ExecuteUbergraph_Player_Animation:00AF
+[2023.10.22-01.07.13:328][478]LogViewport: Scene viewport resized to 411x359, mode Windowed.
+[2023.10.22-01.07.13:385][480]LogViewport: Scene viewport resized to 233x164, mode Windowed.
+[2023.10.22-01.07.13:417][481]LogViewport: Scene viewport resized to 195x122, mode Windowed.
+[2023.10.22-01.07.13:650][504]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2023.10.22-01.07.14:020][546]LogSlate: Window 'Player_Animation' being destroyed
+[2023.10.22-01.07.14:029][546]LogViewport: Scene viewport resized to 476x433, mode Windowed.
+[2023.10.22-01.07.14:055][547]LogViewport: Scene viewport resized to 476x428, mode Windowed.
+[2023.10.22-01.07.14:078][548]LogViewport: Scene viewport resized to 476x424, mode Windowed.
+[2023.10.22-01.07.14:101][549]LogViewport: Scene viewport resized to 476x420, mode Windowed.
+[2023.10.22-01.07.14:125][550]LogViewport: Scene viewport resized to 476x415, mode Windowed.
+[2023.10.22-01.07.14:148][551]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2023.10.22-01.07.14:171][552]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2023.10.22-01.07.31:211][717]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-01.07.31:216][717]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.22-01.07.31:217][717]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.22-01.07.31:217][717]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.22-01.07.31:217][717]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 438 us)
+[2023.10.22-01.07.31:217][717]LogWorldPartition: Display: GenerateStreaming took 83 us (total: 1 ms)
+[2023.10.22-01.07.31:217][717]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.22-01.07.31:218][717]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2023.10.22-01.07.31:282][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.22-01.07.31:283][717]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2023.10.22-01.07.31:283][717]PIE: New page: PIE session: Test (Oct. 21, 2023, 5:07:31 p.m.)
+[2023.10.22-01.07.31:284][717]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2023.10.22-01.07.31:285][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001611s)
+[2023.10.22-01.07.31:285][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.001642s)
+[2023.10.22-01.07.31:285][717]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.07.31:285][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-01.07.31:286][717]LogAIModule: Creating AISystem for world Test
+[2023.10.22-01.07.31:286][717]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.22-01.07.31:286][717]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.22-01.07.31:286][717]LogWorldPartition: UWorldPartition::Initialize(Asset=Test, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.22-01.07.31:286][717]LogContentBundle: [Test(Standalone)] Creating new contrainer.
+[2023.10.22-01.07.31:286][717]LogWorldPartition: Display: WorldPartition initialize took 277 us (total: 327 ms)
+[2023.10.22-01.07.31:286][717]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2023.10.22-01.07.31:304][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.22-01.07.31:305][717]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.10.22-01.07.31:305][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-01.07.31:305][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-01.07.31:305][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-01.07.31:305][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-01.07.31:305][717]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.22-01.07.31:305][717]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-01.07.31:305][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.22-01.07.31:305][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-01.07.31:305][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-01.07.31:305][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-01.07.31:305][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-01.07.31:307][717]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-01.07.31:336][717]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Bose PC Desktop Controller)
+[2023.10.22-01.07.31:336][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-01.07.31:336][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-01.07.31:336][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-01.07.31:337][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.10.22-01.07.31:337][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.10.22-01.07.31:338][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.10.22-01.07.31:338][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.10.22-01.07.31:338][717]LogInit: FAudioDevice initialized with ID 18.
+[2023.10.22-01.07.31:338][717]LogAudio: Display: Audio Device (ID: 18) registered with world 'Test'.
+[2023.10.22-01.07.31:338][717]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.10.22-01.07.31:358][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-01.07.31:358][717]LogLoad: Game class is 'GM_midterm_C'
+[2023.10.22-01.07.31:359][717]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.10.21-21.07.31
+[2023.10.22-01.07.31:359][717]LogWorld: Bringing up level for play took: 0.000562
+[2023.10.22-01.07.31:360][717]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.10.22-01.07.31:361][717]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.22-01.07.31:363][717]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.22-01.07.31:363][717]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=100.383,P=0.000000 Y=0.000000 R=-0.000000
+[2023.10.22-01.07.31:365][717]PIE: Server logged in
+[2023.10.22-01.07.31:366][717]PIE: Play in editor total start time 0.149 seconds.
+[2023.10.22-01.07.31:428][717]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.22-01.07.51:581][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-01.07.51:581][903]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2023.10.22-01.07.51:581][903]LogSlate: Window 'midtermproject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.22-01.07.51:584][903]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-01.07.51:584][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-01.07.51:584][903]LogContentBundle: [Test(Standalone)] Deleting container.
+[2023.10.22-01.07.51:587][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-01.07.51:590][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-01.07.51:612][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.10.22-01.07.51:612][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.10.22-01.07.51:614][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.10.22-01.07.51:620][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.10.22-01.07.51:644][905]LogPlayLevel: Display: Destroying online subsystem :Context_30

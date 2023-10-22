@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"Q:/Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Player/BP_Player.uasset",
+				"Q:/Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Test_HLODLayer_Instanced.uasset",
+				"Q:/Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Test_HLODLayer_Merged.uasset",
+				"Q:/Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/5/1A/VUP29XOSGVTBSEE7DBRMJV.uasset",
+				"Q:/Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/D/ON/WWHVHK158PECMAMG95K0KT.uasset",
+				"Q:/Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/0/RG/JNOSD3804JO9E6ZMD1JALH.uasset",
+				"Q:/Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/0/5F/H1V8R9XATW3PD6OQGO3N3W.uasset",
+				"Q:/Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Test.umap",
 				"Q:/Unreal Project/Midterm/midtermproject/Content/StarterContent/Audio/Collapse01.uasset",
 				"Q:/Unreal Project/Midterm/midtermproject/Content/Midterm/Player/BP_Player.uasset",
 				"Q:/Unreal Project/Midterm/midtermproject/Content/Midterm/Framework/GM_midterm.uasset",

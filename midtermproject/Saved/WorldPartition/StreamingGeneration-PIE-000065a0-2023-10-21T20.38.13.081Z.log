@@ -1,0 +1,41 @@
+[+] Containers:
+ |- [+] Container: /Game/Test
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:243DE2034C550B43B45705851B604712 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7936D78A4D6261BB69A9768B870280B5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_001A7DDA7111DCB401_1948880960 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1087.500 Y=-762.500 Z=-50.000), Max=(X=1087.500 Y=762.500 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:BD2A01754CE166C3D47877B6FDEFB318 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_001A7DDA7111DCB401_1942157959 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:243DE2034C550B43B45705851B604712 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:BD2A01754CE166C3D47877B6FDEFB318 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_001A7DDA7111DCB401_1942157959 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:7936D78A4D6261BB69A9768B870280B5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_001A7DDA7111DCB401_1948880960 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1087.500 Y=-762.500 Z=-50.000), Max=(X=1087.500 Y=762.500 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1087.500 Y=-762.500 Z=-50.000), Max=(X=1087.500 Y=762.500 Z=50.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Test
+----------------------------------------------------------------------------------------------------------------
+Test - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 11 
+
+----------------------------------------------------------------------------------------------------------------
+Test - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-1087.500 Y=-762.500 Z=-50.000), Max=(X=1087.500 Y=762.500 Z=50.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+[+] Content of Grid Level 1
+

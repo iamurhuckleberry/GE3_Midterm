@@ -2890,3 +2890,351 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.22-01.07.51:614][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
 [2023.10.22-01.07.51:620][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
 [2023.10.22-01.07.51:644][905]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.10.22-01.08.31:355][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.10.22-01.08.31:357][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/D/XC/5DQSAU37V8EOJ71YUJ2AOG_Auto2
+[2023.10.22-01.08.31:357][ 97]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/5DQSAU37V8EOJ71YUJ2AOG_Auto297382AE7465E6E69D16E17A963D5018D.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/D/XC/5DQSAU37V8EOJ71YUJ2AOG_Auto2.uasset'
+[2023.10.22-01.08.31:358][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/E/QT/589JXOTI0NIYQBZND70D1E_Auto2
+[2023.10.22-01.08.31:358][ 97]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/589JXOTI0NIYQBZND70D1E_Auto2BDE59470442CBCBAF36399A45F49F285.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/E/QT/589JXOTI0NIYQBZND70D1E_Auto2.uasset'
+[2023.10.22-01.08.31:359][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/8/HQ/YXMUU5Z236JHXMY2WN60ER_Auto2
+[2023.10.22-01.08.31:359][ 97]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/YXMUU5Z236JHXMY2WN60ER_Auto2E059A2514B2A374D4F6977B66DD79CD4.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/8/HQ/YXMUU5Z236JHXMY2WN60ER_Auto2.uasset'
+[2023.10.22-01.08.31:360][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/4/8G/38ORJCYXPRQNHQONRTNNHP_Auto2
+[2023.10.22-01.08.31:360][ 97]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/38ORJCYXPRQNHQONRTNNHP_Auto286ECE96242CC406B60F57C936F0D512A.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/4/8G/38ORJCYXPRQNHQONRTNNHP_Auto2.uasset'
+[2023.10.22-01.08.31:362][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/B/I1/0YBK7TFCLCLAIT2TYUIDHQ_Auto2
+[2023.10.22-01.08.31:362][ 97]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/0YBK7TFCLCLAIT2TYUIDHQ_Auto23E1079794D811D227810E18209EED23D.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/B/I1/0YBK7TFCLCLAIT2TYUIDHQ_Auto2.uasset'
+[2023.10.22-01.08.31:363][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/D/11/K623EPZUJ7OL9DW7Z4CNNE_Auto2
+[2023.10.22-01.08.31:363][ 97]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/K623EPZUJ7OL9DW7Z4CNNE_Auto2DA4A950044293FC70A7B50B55769D67B.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/D/11/K623EPZUJ7OL9DW7Z4CNNE_Auto2.uasset'
+[2023.10.22-01.08.31:365][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/A/AH/8MU53CRZLVFG1AW5ZHOETO_Auto2
+[2023.10.22-01.08.31:365][ 97]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/8MU53CRZLVFG1AW5ZHOETO_Auto2274863534EF2DCBAB2E8D9B9AC55D861.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/__ExternalActors__/Test/A/AH/8MU53CRZLVFG1AW5ZHOETO_Auto2.uasset'
+[2023.10.22-01.08.31:366][ 97]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test' took 0.029
+[2023.10.22-01.08.31:366][ 97]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2023.10.22-01.08.31:366][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Midterm/Player/BP_Player] ([2] browsable assets)...
+[2023.10.22-01.08.31:379][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Midterm/Player/BP_Player.BP_Player]
+[2023.10.22-01.08.31:379][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Midterm/Player/BP_Player]
+[2023.10.22-01.08.31:386][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Midterm/Player/BP_Player_Auto2
+[2023.10.22-01.08.31:386][ 97]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_Player_Auto2DB37554849E59D45D9DFCEA08FF892CA.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/Midterm/Player/BP_Player_Auto2.uasset'
+[2023.10.22-01.08.31:386][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Midterm/Player/Animation/Player_Animation] ([2] browsable assets)...
+[2023.10.22-01.08.31:399][ 97]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Midterm/Player/Animation/Player_Animation.Player_Animation]
+[2023.10.22-01.08.31:399][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Midterm/Player/Animation/Player_Animation]
+[2023.10.22-01.08.31:408][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Midterm/Player/Animation/Player_Animation_Auto2
+[2023.10.22-01.08.31:408][ 97]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Player_Animation_Auto2DBEF3E8444B12B0A9E5176BC93BD104A.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Autosaves/Game/Midterm/Player/Animation/Player_Animation_Auto2.uasset'
+[2023.10.22-01.08.31:408][ 97]LogFileHelpers: Auto-saving content packages took 0.042
+[2023.10.22-01.08.56:170][408]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.10.22-01.09.34:212][836]LogVSAccessor: Warning: Couldn't open file 'Q:/UE5/Egine/UE_5.2/Engine/Source/Runtime/Engine/Classes/Animation/AnimInstance.h'.
+[2023.10.22-01.09.34:212][836]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:220][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:221][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:222][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:223][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:224][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:241][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:241][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:244][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:244][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:244][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:244][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:247][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:262][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:262][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:263][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:278][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:305][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:305][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:305][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:305][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:305][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.34:305][836]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.22-01.09.38:154][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-01.09.38:184][  2]LogSavePackage: Moving output files for package: /Game/Midterm/Player/Animation/Player_Animation
+[2023.10.22-01.09.38:184][  2]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Player_Animation41D0585E4B4A3CFBF227A2B917081273.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Player/Animation/Player_Animation.uasset'
+[2023.10.22-01.09.38:195][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 183 ms)
+[2023.10.22-01.09.38:200][  2]AssetCheck: New page: Asset Save: Player_Animation
+[2023.10.22-01.09.38:200][  2]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Midterm/Player/Animation/Player_Animation.Player_Animation
+[2023.10.22-01.10.03:060][188]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.10.22-01.12.03:480][327]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp.epicCharacter_JumpUp
+[2023.10.22-01.12.03:524][327]LogAnimationCompression: Display: Storing compressed animation data for /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp.epicCharacter_JumpUp, at AnimationSequence/8065f7ee520a6d86094f44a7ec9e62c1e3922ae9
+[2023.10.22-01.12.16:741][372]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp_Loop.epicCharacter_JumpUp_Loop
+[2023.10.22-01.12.16:743][372]LogAnimationCompression: Display: Storing compressed animation data for /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp_Loop.epicCharacter_JumpUp_Loop, at AnimationSequence/1e2d91b41a077f884f03308dbe2c24d0bb30be5c
+[2023.10.22-01.12.48:033][489]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp_Start.epicCharacter_JumpUp_Start
+[2023.10.22-01.12.48:053][489]LogAnimationCompression: Display: Storing compressed animation data for /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp_Start.epicCharacter_JumpUp_Start, at AnimationSequence/88cbc00f47091b0a9e27f080a0b6d9ab42d63426
+[2023.10.22-01.13.04:648][782]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp_End.epicCharacter_JumpUp_End
+[2023.10.22-01.13.04:670][782]LogAnimationCompression: Display: Storing compressed animation data for /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp_End.epicCharacter_JumpUp_End, at AnimationSequence/8bafb6ba09bc48f44d6a69e53c5336199a1b0962
+[2023.10.22-01.13.09:867][373]BlueprintLog: New page: Compile Player_Animation
+[2023.10.22-01.13.09:871][373]LogBlueprint: Warning: [AssetLog] Q:\Unreal Project\Midterm\GE3_Midterm\midtermproject\Content\Midterm\Player\Animation\Player_Animation.uasset: [Compiler] Idle to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2023.10.22-01.13.09:872][373]LogBlueprint: Warning: [AssetLog] Q:\Unreal Project\Midterm\GE3_Midterm\midtermproject\Content\Midterm\Player\Animation\Player_Animation.uasset: [Compiler] JumpStart to JumpLoop  will never be taken, please connect something to  Can Enter Transition
+[2023.10.22-01.13.09:872][373]LogBlueprint: Warning: [AssetLog] Q:\Unreal Project\Midterm\GE3_Midterm\midtermproject\Content\Midterm\Player\Animation\Player_Animation.uasset: [Compiler] JumpLoop to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2023.10.22-01.13.09:872][373]LogBlueprint: Warning: [AssetLog] Q:\Unreal Project\Midterm\GE3_Midterm\midtermproject\Content\Midterm\Player\Animation\Player_Animation.uasset: [Compiler] JumpEnd to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.10.22-01.13.09:907][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.10.22-01.16.09:709][902]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp_Start.epicCharacter_JumpUp_Start
+[2023.10.22-01.16.09:713][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.16.09:713][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-01.16.09:720][902]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.22-01.16.09:840][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.16.09:840][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-01.16.09:961][902]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2023.10.22-01.16.09:966][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.16.09:966][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-01.16.09:989][902]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2023.10.22-01.16.10:011][902]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.10.22-01.18.04:931][874]LogSlate: Took 0.005884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.10.22-01.20.02:349][742]BlueprintLog: New page: Compile Player_Animation
+[2023.10.22-01.20.02:390][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.10.22-01.20.03:996][930]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-01.20.04:002][930]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.22-01.20.04:004][930]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.22-01.20.04:004][930]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.22-01.20.04:004][930]LogWorldPartition: Display: GetPartitionedActors took 17 us (total: 456 us)
+[2023.10.22-01.20.04:004][930]LogWorldPartition: Display: GenerateStreaming took 149 us (total: 1 ms)
+[2023.10.22-01.20.04:004][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.22-01.20.04:004][930]PIE: New page: PIE session: Test (Oct. 21, 2023, 5:20:04 p.m.)
+[2023.10.22-01.20.04:004][930]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2023.10.22-01.20.04:006][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001561s)
+[2023.10.22-01.20.04:006][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.001585s)
+[2023.10.22-01.20.04:006][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.20.04:006][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-01.20.04:006][930]LogAIModule: Creating AISystem for world Test
+[2023.10.22-01.20.04:007][930]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.22-01.20.04:007][930]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.22-01.20.04:007][930]LogWorldPartition: UWorldPartition::Initialize(Asset=Test, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.22-01.20.04:007][930]LogContentBundle: [Test(Standalone)] Creating new contrainer.
+[2023.10.22-01.20.04:007][930]LogWorldPartition: Display: WorldPartition initialize took 354 us (total: 328 ms)
+[2023.10.22-01.20.04:007][930]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2023.10.22-01.20.04:026][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.22-01.20.04:029][930]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.10.22-01.20.04:029][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-01.20.04:029][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-01.20.04:029][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-01.20.04:029][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-01.20.04:029][930]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.22-01.20.04:029][930]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-01.20.04:029][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.22-01.20.04:029][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-01.20.04:029][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-01.20.04:029][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-01.20.04:029][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-01.20.04:031][930]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-01.20.04:056][930]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Bose PC Desktop Controller)
+[2023.10.22-01.20.04:057][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-01.20.04:057][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-01.20.04:057][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-01.20.04:058][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.10.22-01.20.04:058][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.10.22-01.20.04:059][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.10.22-01.20.04:059][930]LogInit: FAudioDevice initialized with ID 19.
+[2023.10.22-01.20.04:059][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.10.22-01.20.04:059][930]LogAudio: Display: Audio Device (ID: 19) registered with world 'Test'.
+[2023.10.22-01.20.04:059][930]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.10.22-01.20.04:081][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-01.20.04:081][930]LogLoad: Game class is 'GM_midterm_C'
+[2023.10.22-01.20.04:082][930]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.10.21-21.20.04
+[2023.10.22-01.20.04:082][930]LogWorld: Bringing up level for play took: 0.000722
+[2023.10.22-01.20.04:084][930]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.10.22-01.20.04:084][930]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.22-01.20.04:085][930]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.22-01.20.04:085][930]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=100.383,P=0.000000 Y=0.000000 R=-0.000000
+[2023.10.22-01.20.04:088][930]PIE: Server logged in
+[2023.10.22-01.20.04:089][930]PIE: Play in editor total start time 0.087 seconds.
+[2023.10.22-01.20.04:105][930]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.22-01.20.56:642][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-01.20.56:642][740]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2023.10.22-01.20.56:642][740]LogSlate: Window 'midtermproject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.22-01.20.56:645][740]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-01.20.56:645][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-01.20.56:645][740]LogContentBundle: [Test(Standalone)] Deleting container.
+[2023.10.22-01.20.56:647][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-01.20.56:652][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-01.20.56:669][740]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.22-01.20.56:669][740]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.10.22-01.20.56:669][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.22-01.20.56:670][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.22-01.20.56:675][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.22-01.20.56:711][743]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.10.22-01.20.57:387][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-01.20.57:436][817]LogSavePackage: Moving output files for package: /Game/Midterm/Player/Animation/Player_Animation
+[2023.10.22-01.20.57:436][817]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/Player_Animation9240F6074B2604AD3EEF9D9586D4C202.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Player/Animation/Player_Animation.uasset'
+[2023.10.22-01.20.57:443][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 239 ms)
+[2023.10.22-01.20.57:448][817]AssetCheck: New page: Asset Save: Player_Animation
+[2023.10.22-01.20.57:448][817]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Midterm/Player/Animation/Player_Animation.Player_Animation
+[2023.10.22-01.21.05:005][ 14]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-01.21.05:911][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-01.21.05:965][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.22-01.21.05:985][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.22-01.21.06:005][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.22-01.21.06:008][ 91]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Test/D/XC/5DQSAU37V8EOJ71YUJ2AOG
+[2023.10.22-01.21.06:008][ 91]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/5DQSAU37V8EOJ71YUJ2AOG20E85D5F480BFE9281A5E195AEF314D9.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/D/XC/5DQSAU37V8EOJ71YUJ2AOG.uasset'
+[2023.10.22-01.21.06:010][ 91]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Test/E/QT/589JXOTI0NIYQBZND70D1E
+[2023.10.22-01.21.06:010][ 91]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/589JXOTI0NIYQBZND70D1EC0B10B554903A07815956298FEE42EEB.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/E/QT/589JXOTI0NIYQBZND70D1E.uasset'
+[2023.10.22-01.21.06:011][ 91]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Test/8/HQ/YXMUU5Z236JHXMY2WN60ER
+[2023.10.22-01.21.06:011][ 91]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/YXMUU5Z236JHXMY2WN60ERC19E6108428DF792157C19B68FDFFC2F.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/8/HQ/YXMUU5Z236JHXMY2WN60ER.uasset'
+[2023.10.22-01.21.06:014][ 91]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Test/4/8G/38ORJCYXPRQNHQONRTNNHP
+[2023.10.22-01.21.06:014][ 91]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/38ORJCYXPRQNHQONRTNNHP090FD72845B20ABB25773C93EFC9B827.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/4/8G/38ORJCYXPRQNHQONRTNNHP.uasset'
+[2023.10.22-01.21.06:016][ 91]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Test/4/CC/CY028Y1PJ0AFRNLH2BUL53
+[2023.10.22-01.21.06:016][ 91]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/CY028Y1PJ0AFRNLH2BUL532834B5D841D236A82818F6A4B2242D10.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalObjects__/Test/4/CC/CY028Y1PJ0AFRNLH2BUL53.uasset'
+[2023.10.22-01.21.06:018][ 91]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Test/B/I1/0YBK7TFCLCLAIT2TYUIDHQ
+[2023.10.22-01.21.06:018][ 91]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/0YBK7TFCLCLAIT2TYUIDHQ13E1D31A4A0E089A6E3280960CE40675.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/B/I1/0YBK7TFCLCLAIT2TYUIDHQ.uasset'
+[2023.10.22-01.21.06:019][ 91]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Test/D/11/K623EPZUJ7OL9DW7Z4CNNE
+[2023.10.22-01.21.06:019][ 91]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/K623EPZUJ7OL9DW7Z4CNNEE074CDA54AF871F5B608FE94C8DD3845.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/D/11/K623EPZUJ7OL9DW7Z4CNNE.uasset'
+[2023.10.22-01.21.06:022][ 91]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Test/A/AH/8MU53CRZLVFG1AW5ZHOETO
+[2023.10.22-01.21.06:022][ 91]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/8MU53CRZLVFG1AW5ZHOETO598CF59C401846D7D1D707A35D1D04A9.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/__ExternalActors__/Test/A/AH/8MU53CRZLVFG1AW5ZHOETO.uasset'
+[2023.10.22-01.21.06:031][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 359 ms)
+[2023.10.22-01.21.06:036][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.22-01.21.06:036][ 91]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Test.Test:PersistentLevel.StaticMeshActor_UAID_001A7DDA7111DDB401_1891828143
+[2023.10.22-01.21.06:036][ 91]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Test.Test:PersistentLevel.StaticMeshActor_UAID_001A7DDA7111DDB401_1248485140
+[2023.10.22-01.21.06:036][ 91]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Test.Test:PersistentLevel.ActorFolder_UID_202D7F95-44F7A5BD-5E9F35BA-8BFEA653
+[2023.10.22-01.21.06:036][ 91]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/Test.Test:PersistentLevel.VolumetricCloud_UAID_001A7DDA7111DCB401_2079451963
+[2023.10.22-01.21.06:036][ 91]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Test.Test:PersistentLevel.StaticMeshActor_UAID_001A7DDA7111DDB401_1325608142
+[2023.10.22-01.21.06:036][ 91]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/Test.Test:PersistentLevel.ExponentialHeightFog_UAID_001A7DDA7111DCB401_2068122962
+[2023.10.22-01.21.06:036][ 91]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/Test.Test:PersistentLevel.SkyAtmosphere_UAID_001A7DDA7111DCB401_1999001961
+[2023.10.22-01.21.06:036][ 91]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/Test.Test:PersistentLevel.DirectionalLight_UAID_001A7DDA7111DCB401_1942157959
+[2023.10.22-01.21.06:409][133]LogEditorViewport: Clicking Background
+[2023.10.22-01.21.06:602][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-01.21.06:643][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.22-01.21.06:660][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.22-01.21.06:678][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.22-01.21.06:685][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 442 ms)
+[2023.10.22-01.23.07:546][470]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.22-01.23.07:554][470]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.22-01.23.07:560][471]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.22-01.23.17:980][688]LogContentBrowser: Attempting asset rename: NewFolder -> Interact
+[2023.10.22-01.23.17:981][688]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.22-01.23.23:323][170]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.22-01.23.23:332][170]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.22-01.23.23:337][170]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.22-01.23.23:359][172]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.22-01.23.30:949][ 67]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PickUp
+[2023.10.22-01.23.30:955][ 67]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.22-01.23.32:172][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Midterm/Interact/BP_PickUp.BP_PickUp
+[2023.10.22-01.23.32:173][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.23.32:173][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-01.23.32:248][210]LogViewport: Scene viewport resized to 1141x895, mode Windowed.
+[2023.10.22-01.23.32:274][211]LogViewport: Scene viewport resized to 1141x883, mode Windowed.
+[2023.10.22-01.23.32:363][212]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2023.10.22-01.23.58:663][423]LogStaticMesh: Display: Building static mesh SM_Collectible_Common...
+[2023.10.22-01.23.58:678][423]LogTexture: Display: Building textures: /Game/TeachersMarketplace/Assets/Props/Collectibles/Common/Texture/T_Collectible_Common_ARM.T_Collectible_Common_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.10.22-01.23.58:678][423]LogTexture: Display: Building textures: /Game/TeachersMarketplace/Assets/Props/Collectibles/Common/Texture/T_Collectible_Common_BC.T_Collectible_Common_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.10.22-01.23.58:689][423]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TeachersMarketplace/Assets/Props/Collectibles/Common/Mesh/SM_Collectible_Common) ...
+[2023.10.22-01.23.58:696][423]LogStaticMesh: Built static mesh [0.03s] /Game/TeachersMarketplace/Assets/Props/Collectibles/Common/Mesh/SM_Collectible_Common.SM_Collectible_Common
+[2023.10.22-01.23.58:706][423]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-01.24.08:592][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-01.24.08:613][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Player/BP_Player" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Player/BP_Player.uasset" SILENT=true
+[2023.10.22-01.24.08:619][398]LogSavePackage: Moving output files for package: /Game/Midterm/Player/BP_Player
+[2023.10.22-01.24.08:620][398]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_Player4987FD6A4BA4EE98DF394481F2D842A2.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Player/BP_Player.uasset'
+[2023.10.22-01.24.08:626][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 477 ms)
+[2023.10.22-01.24.08:631][398]AssetCheck: New page: Asset Save: BP_Player
+[2023.10.22-01.24.08:631][398]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Player/BP_Player.BP_Player
+[2023.10.22-01.24.11:804][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-01.24.11:839][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_PickUp" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_PickUp.uasset" SILENT=true
+[2023.10.22-01.24.11:842][774]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_PickUp
+[2023.10.22-01.24.11:842][774]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_PickUp26C45C5E48DE5E21C7F97C88051CA3CA.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_PickUp.uasset'
+[2023.10.22-01.24.11:850][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 523 ms)
+[2023.10.22-01.24.11:855][774]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.10.22-01.24.11:855][774]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_PickUp.BP_PickUp
+[2023.10.22-01.24.12:118][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-01.24.12:139][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm/Interact/BP_PickUp" FILE="../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_PickUp.uasset" SILENT=true
+[2023.10.22-01.24.12:141][805]LogSavePackage: Moving output files for package: /Game/Midterm/Interact/BP_PickUp
+[2023.10.22-01.24.12:142][805]LogSavePackage: Moving '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Saved/BP_PickUp1711E27141A20F554B1A83AAC3FFE522.tmp' to '../../../../../../Unreal Project/Midterm/GE3_Midterm/midtermproject/Content/Midterm/Interact/BP_PickUp.uasset'
+[2023.10.22-01.24.12:147][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 553 ms)
+[2023.10.22-01.24.12:153][805]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.10.22-01.24.12:153][805]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Midterm/Interact/BP_PickUp.BP_PickUp

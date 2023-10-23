@@ -1,5 +1,7 @@
 # GE3_Midterm
 
+VERSION UNREAL ENGINE 5.2.1
+
 Collecte as much coin as u can and get the blue crystal to unlock the blue door in order to reach the end!
 
 1.The compeleted game(Leve1) is in the "Conten" folder.
